@@ -1,0 +1,26 @@
+[2025-01-09 12:26:23] Err |            |                 |Test Message from Receiving Server by Nadil Liyanage BOC
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783578 for record ID: 305ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783641 for record ID: 309ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783655 for record ID: 313ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783667 for record ID: 317ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783681 for record ID: 321ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783692 for record ID: 325ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783705 for record ID: 329ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783719 for record ID: 333ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783730 for record ID: 337ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783750 for record ID: 341ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783772 for record ID: 345ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783790 for record ID: 349ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783806 for record ID: 353ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783821 for record ID: 357ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783835 for record ID: 361ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783850 for record ID: 365ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783867 for record ID: 369ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783879 for record ID: 373ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783893 for record ID: 377ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783903 for record ID: 381ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783912 for record ID: 385ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783921 for record ID: 389ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783930 for record ID: 393ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783940 for record ID: 397ICBS
+[2025-01-09 12:26:23] Received Reference Number: REF1736405783950 for record ID: 401ICBS
