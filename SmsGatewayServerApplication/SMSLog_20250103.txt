@@ -1,0 +1,52 @@
+[2025-01-03 15:08:24] Received from SMS Receiving Server: Test Message from Receiving Server by Nadil Liyanage BOC
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104284 for message: Test Message from Receiving Server by Nadil Liyanage BOC
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 105,0701234567,Message content 1
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104510 for message: 105,0701234567,Message content 1
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 109,0755678901,Message content 5
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104566 for message: 109,0755678901,Message content 5
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 113,0709012345,Message content 9
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104579 for message: 113,0709012345,Message content 9
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 117,0753456789,Message content 13
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104592 for message: 117,0753456789,Message content 13
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 121,0707890123,Message content 17
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104605 for message: 121,0707890123,Message content 17
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 125,0751234567,Message content 21
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104615 for message: 125,0751234567,Message content 21
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 129,0705678901,Message content 25
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104628 for message: 129,0705678901,Message content 25
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 133,0759012345,Message content 29
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104642 for message: 133,0759012345,Message content 29
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 137,0708901234,Message content 33
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104656 for message: 137,0708901234,Message content 33
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 141,0752345678,Message content 37
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104671 for message: 141,0752345678,Message content 37
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 145,0709012345,Message content 41
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104687 for message: 145,0709012345,Message content 41
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 149,0753456789,Message content 45
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104699 for message: 149,0753456789,Message content 45
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 153,0707890123,Message content 49
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104710 for message: 153,0707890123,Message content 49
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 157,0751234567,Message content 53
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104731 for message: 157,0751234567,Message content 53
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 161,0705678901,Message content 57
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104746 for message: 161,0705678901,Message content 57
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 165,0759012345,Message content 61
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104763 for message: 165,0759012345,Message content 61
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 169,0708901234,Message content 65
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104779 for message: 169,0708901234,Message content 65
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 173,0752345678,Message content 69
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104793 for message: 173,0752345678,Message content 69
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 177,0709012345,Message content 73
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104806 for message: 177,0709012345,Message content 73
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 181,0753456789,Message content 77
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104820 for message: 181,0753456789,Message content 77
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 185,0707890123,Message content 81
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104830 for message: 185,0707890123,Message content 81
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 189,0751234567,Message content 85
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104839 for message: 189,0751234567,Message content 85
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 193,0705678901,Message content 89
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104848 for message: 193,0705678901,Message content 89
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 197,0759012345,Message content 93
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104856 for message: 197,0759012345,Message content 93
+[2025-01-03 15:08:24] Received from SMS Receiving Server: 201,0708901234,Message content 97
+[2025-01-03 15:08:24] Generated Reference Number: REF1735897104866 for message: 201,0708901234,Message content 97
